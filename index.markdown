@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![profile picture]({{site.url}}/images/headshot2020.jpg)
+![profile picture](/images/headshot2020.JPG)
 
 ## Short Bio
 
