@@ -4,3 +4,17 @@
 
 layout: home
 ---
+![profile picture]()
+
+## Short Bio
+
+
+
+## Scholarly IDs
+
+ORCID: [](){:target="_blank"}
+[Academia.edu](){:target="_blank"}
+[Google Scholar](){:target="_blank"_}
+
+---
+#### _[PDF of this Curriculum Vitae](){:target="_blank"}_
