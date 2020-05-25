@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![profile picture]()
+![profile picture](/images/headshot2020.jpg)
 
 ## Short Bio
 
