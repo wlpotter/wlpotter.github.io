@@ -6,12 +6,6 @@ order: 1
 ---
 # William L. Potter, Curriculum Vitae
 
-920 Woodmont Blvd.
-
-Apt. S-16, Nashville, TN 37204
-
-(724)372-8109 | williamlpotter004@gmail.com
-
 ### EDUCATION
 - Vanderbilt Divinity School, Nashville, TN
     - Master of Theological Studies, Mediterranean and Near Eastern Studies, May 2019
