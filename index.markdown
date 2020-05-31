@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![profile picture](/images/headshot2020.JPG)
+![profile picture](/images/headshot2020.JPG){:height="50%" width="50%"}
 
 ## Short Bio
 
