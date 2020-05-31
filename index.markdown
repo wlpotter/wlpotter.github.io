@@ -13,7 +13,9 @@ layout: home
 ## Scholarly IDs
 
 ORCID: [0000-0003-1009-9545](https://orcid.org/0000-0003-1009-9545){:target="_blank"}
+
 [Academia.edu](){:target="_blank"}
+
 [Google Scholar](){:target="_blank"_}
 
 ---
