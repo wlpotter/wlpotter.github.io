@@ -14,9 +14,9 @@ layout: home
 
 ORCID: [0000-0003-1009-9545](https://orcid.org/0000-0003-1009-9545){:target="_blank"}
 
-[Academia.edu](){:target="_blank"}
+[Academia.edu](https://slu.academia.edu/WilliamPotter){:target="_blank"}
 
-[Google Scholar](){:target="_blank"_}
+[Google Scholar](https://scholar.google.com/citations?&user=xNLxjSIAAAAJ){:target="_blank"_}
 
 ---
 #### _[PDF of this Curriculum Vitae](){:target="_blank"}_
