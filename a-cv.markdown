@@ -6,8 +6,6 @@ order: 1
 ---
 # Education
 
-Ph.D., Theological Studies, current, Saint Louis University
-
 M.T.S., Mediterranean and Near Eastern Studies, 2019, Vanderbilt Divinity School
 
 B.S., _magna cum laude_, Audio Engineering Technology, 2017, Belmont University
@@ -31,10 +29,22 @@ Vivian M. Bell Clergy Award for Promise in Christian Ministry, Belmont Universit
 
 # Digital Research
 
-- (Technical Editor.) _The Beth Qaṭraye Gazetteer_, edited by Haya Al Thani, Saif al-Murikhi, Abdulrahim Abu-Husayn, Abdul Rahman Chamseddine, Mario Kozah, and Thomas A. Carlson (Forthcoming).
+## [The Syriac Gazetteer](http://syriaca.org/geo)
 
-# Academic Presentations
+Co-editor with David A. Michelson responsible for bringing the second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ into conformance with the custom TEI schema, ingesting new data, and editing and data cleaning. The revised and expanded second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ should be released in the fall of 2020.
 
+## Caesarea-Maritima.org: A Digital Archive (forthcoming)
+
+Technical Editor responsible for developing a TEI XML data model for literary testimonia related to Caesarea Maratima, populating a Zotero database with bibliographic sources for the study of Caesarea Maritima, transforming tabular data into TEI compliant XML records for use in _Caesarea-Maritima.org_, and training and managing research assistants to input and edit project data.
+
+## The Beth Qaṭraye Gazetteer (forthcoming)
+
+Technical Editor responsible for transforming tabular data into TEI compliant XML records of places in _The Beth Qaṭraye Gazetteer_.
+
+# Presentations
+
+- "TEI for Critical Editions," 2019 Digital Humanities Bootcamp. Vanderbilt University, Nashville, TN. 13 August, 2019.
+- "Syriaca.org: Digital Tools for a Culture Facing Genocide," Lightning Talk, 2019 Digital Humanities Bootcamp. Vanderbilt University, Nashville, TN. 12 August, 2019.
 - “Eclectic Digital Editions and Translations in TEI: Narsai’s Homily, *On Job*,” Poster, Cultural Heritage at Scale 2019. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Roundtable on TEI XML and Student Research,” Cultural Heritage at Scale 2019 Conference. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Poetry and Preaching in Medieval Mesopotamia,” Poetic Traditions in the Ancient and Medieval Mediterranean and Near East, Vanderbilt University, Nashville, TN. 26 March, 2019.
