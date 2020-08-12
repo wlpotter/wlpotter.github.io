@@ -1,72 +1,94 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: William L. Potter, Curriculum Vitae
 permalink: /cv/
 order: 1
 ---
-# William L. Potter, Curriculum Vitae
+# Education
 
-### EDUCATION
-- Vanderbilt Divinity School, Nashville, TN
-    - Master of Theological Studies, Mediterranean and Near Eastern Studies, May 2019
-    - Thesis: “Mar Narsai’s Homily, *On Job*: Edition, Translation, and Commentary”
-        - Committee: David Michelson (Advisor), Annalisa Azzoni
-        - Link: http://hdl.handle.net/1803/9601
-- Belmont University, Nashville, TN
-    - BS, magna cum laude, Audio Engineering Technology, May 2017
+Ph.D., Theological Studies, current, Saint Louis University
 
-### AWARDS AND HONORS
-- Vanderbilt Divinity School Academic Achievement Award, Vanderbilt Divinity School, 2019
-- Elliot F. Shephard Prize for Excellence in Church History, Vanderbilt Divinity School, 2019
-- W. Kendrick Grobel Award for Outstanding Achievement in Biblical Studies, Vanderbilt Divinity School, 2019
-- Vivian M. Bell Clergy Award for Promise in Christian Ministry, Belmont University, 2017
+M.T.S., Mediterranean and Near Eastern Studies, 2019, Vanderbilt Divinity School
 
-### PUBLICATIONS
-- William L. Potter, Technical Editor for *The Beth Qaṭraye Gazetteer*, ed. Haya Al Thani, Saif al-Murikhi, Abdulrahim Abu-Husayn, Abdul Rahman Chamseddine, Mario Kozah and Thomas A. Carlson (Forthcoming).
-- William L. Potter and David A. Michelson, “Index of Maps” in *The Syriac World*, ed. Daniel King (London: Routledge, 2018), 824-834.
+B.S., _magna cum laude_, Audio Engineering Technology, 2017, Belmont University
 
-### RESEARCH PRESENTATIONS
+
+# Awards and Honors
+
+Vanderbilt Divinity School Academic Achievement Award, Vanderbilt Divinity School, 2019
+
+Elliot F. Shephard Prize for Excellence in Church History, Vanderbilt Divinity School, 2019
+
+W. Kendrick Grobel Award for Outstanding Achievement in Biblical Studies, Vanderbilt Divinity School, 2019
+
+Vivian M. Bell Clergy Award for Promise in Christian Ministry, Belmont University, 2017
+
+# Print Publications
+
+- “Mar Narsai’s Homily, _On Job_: Edition, Translation, and Commentary.” Master of Theological Studies thesis. Vanderbilt Divinity School, 2019. http://hdl.handle.net/1803/9601. Committee: David Michelson (advisor) and Annalisa Azzoni.
+- (Prepared with David A. Michelson.) “Index of Maps.” In _The Syriac World_, edited by Daniel King, 824-834. London: Routledge, 2018.
+
+
+# Digital Research
+
+- (Technical Editor.) _The Beth Qaṭraye Gazetteer_, edited by Haya Al Thani, Saif al-Murikhi, Abdulrahim Abu-Husayn, Abdul Rahman Chamseddine, Mario Kozah, and Thomas A. Carlson (Forthcoming).
+
+# Academic Presentations
+
 - “Eclectic Digital Editions and Translations in TEI: Narsai’s Homily, *On Job*,” Poster, Cultural Heritage at Scale 2019. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Roundtable on TEI XML and Student Research,” Cultural Heritage at Scale 2019 Conference. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Poetry and Preaching in Medieval Mesopotamia,” Poetic Traditions in the Ancient and Medieval Mediterranean and Near East, Vanderbilt University, Nashville, TN. 26 March, 2019.
 - “‘Prolonging Their Days’: A Narrative Look at Ecclesiastes 8,” Belmont Undergraduate Research Symposium, Nashville, TN. 20 April, 2017.
 
-### PROFESSIONAL EXPERIENCE
-#### Digital Humanities
-- **Research Assistant for Digital Cultural Heritage**, Vanderbilt Center for Digital Humanities, Nashville, TN
-August 2019 – Present
-    - Served as a Technical Editor for *The Beth Qatraye Gazetteer* (forthcoming); managed a group of graduate student researchers encoding Wright’s *Catalogue of Syriac Manuscripts* in TEI XML.
+# Professional Experience
 
-#### Archaeological Site Management
-- **Graduate Assistant**, Vanderbilt Excavations at Caesarea-Maratima, May – June 2019
-    - Assisted the field and trench supervisors during the 2019 excavation season.
+## Digital Humanities
 
-#### Editorial Assistance
-- **Research Assistant to Professor David A. Michelson**, Vanderbilt University
-    - Provided editorial assistance for Michelson, *Library of Paradise* (forthcoming); “Index of Maps” in *The Syriac World*, ed. D. King; and *Faith and Community around the Mediterranean. In Honor of Peter R. L. Brown*, ed. P. Guran and D. Michelson.
-- **Research Assistant to Professor Choon-Leong Seow**, Vanderbilt University
-    - Provided editorial assistance for several articles and book chapters addressing the reception history of the book of Job.
-- **Copy Editor**, United Methodist Publishing House: Discipleship Resources International
-    - Editor for several titles in the Africa Ministry Series.
+### Research Assistant for Digital Cultural Heritage
+_Vanderbilt Center for Digital Humanities, Nashville, TN_ <br/>August 2019 – July 2020
 
-### TEACHING EXPERIENCE
+- Served as a Technical Editor for _The Beth Qatraye Gazetteer_ (forthcoming) and _Caesarea-Maritima.org: A Digital Archive_ (forthcoming).
+- Managed a team of graduate student researchers encoding Wright’s *Catalogue of Syriac Manuscripts* in TEI XML.
+
+## Archaeological Site Management
+
+### Graduate Assistant
+_Vanderbilt University Excavations at Caesarea-Maratima_<br/>May – June 2019
+
+- Assisted Field and Trench Supervisors in managing undergraduate student excavators during the 2019 excavation season.
+- Participated in the excavation, documentation, and processing of archaeological finds.
+
+## Research and Editorial Assistance
+### Research Assistant to Professor David A. Michelson
+_Vanderbilt Divinity School_
+
+- Provided editorial assistance for Michelson, _Library of Paradise_ (forthcoming) and *Faith and Community around the Mediterranean. In Honor of Peter R. L. Brown*, ed. P. Guran and D. Michelson (forthcoming).
+
+### Research Assistant to Professor Choon-Leong Seow _Vanderbilt Divinity School_
+
+- Provided editorial assistance for several articles and book chapters addressing the reception history of the book of Job.
+
+### Copy Editor
+_United Methodist Publishing House: Discipleship Resources International_
+
+- Editor for several titles in the Africa Ministry Series.
+
+# Teaching Experience
 - **Lecturer**, Belmont University, *REL1010 Understanding the Bible*, Fall 2019
 - **Teaching Assistant**, Belmont University, *AET3190 Audio Engineering II*, Spring 2016
 
-### LANGUAGES AND SKILLS
-#### Research Languages:
-##### Ancient:
-Hebrew (Biblical, Mishnaic, Medieval); Syriac; Greek (Attic, Koine); Imperial Aramaic; Arabic (Quranic and Classical)
-##### Modern:
-Spanish, French
-##### Artificial:
-XML (TEI); XQuery; Python; CSS
-#### Software Programs:
-Zotero; oXygen XML Editor; Basex; Github; eXist-db
+# Research Languages and Skills
 
-### REFERENCES
-- David Michelson, Vanderbilt University (615) 343-3990
-- Choon-Leong Seow, Vanderbilt University (615) 875-9598
-- Phillip Ackerman-Lieberman, Vanderbilt University (615) 343-2098
-- Joseph Rife, Vanderbilt University (615) 343-3177
-- Annalisa Azzoni, Vanderbilt University (615) 343-3972
+## Research Languages:
+
+### Ancient:
+Syriac; Hebrew (Biblical, Mishnaic, Medieval); Greek (Attic, Koine); Arabic (Quranic and Classical)
+
+### Modern:
+French, Spanish
+
+### Artificial:
+XML (TEI); XQuery; Markdown; Python; CSS
+
+## Skills
+Zotero; oXygen XML Editor; Basex; GitHub; Atom Text Editor; eXist-db
