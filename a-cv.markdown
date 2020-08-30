@@ -84,6 +84,7 @@ _United Methodist Publishing House: Discipleship Resources International_
 - Editor for several titles in the Africa Ministry Series.
 
 ## Teaching Experience
+- **Teaching Assistant**, Saint Louis University, _THEO2710 Religions of the World_, Fall 2020
 - **Lecturer**, Belmont University, *REL1010 Understanding the Bible*, Fall 2019
 - **Teaching Assistant**, Belmont University, *AET3190 Audio Engineering II*, Spring 2016
 
