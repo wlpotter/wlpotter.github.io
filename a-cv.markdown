@@ -13,6 +13,10 @@ B.S., _magna cum laude_, Audio Engineering Technology, 2017, Belmont University
 
 ## Awards and Honors
 
+Graduate Student Paper Prize, North American Patristics Society Annual Conference, 2021
+
+First Place Paper Prize, Seventh Dorushe Graduate Student Conference on Syriac Studies, 2021
+
 Vanderbilt Divinity School Academic Achievement Award, Vanderbilt Divinity School, 2019
 
 Elliot F. Shephard Prize for Excellence in Church History, Vanderbilt Divinity School, 2019
@@ -29,13 +33,17 @@ Vivian M. Bell Clergy Award for Promise in Christian Ministry, Belmont Universit
 
 ## Digital Research
 
+{>>ADD WRIGHT CATALOGUE!<<}
+
 ### [The Syriac Gazetteer](http://syriaca.org/geo)
 
-Co-editor with David A. Michelson responsible for bringing the second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ into conformance with the custom TEI schema, ingesting new data, and editing and data cleaning. The revised and expanded second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ should be released in the fall of 2020.
+Co-editor with David A. Michelson responsible for bringing the second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ into conformance with the custom TEI schema, ingesting new data, and editing and data cleaning. The revised and expanded second edition of _[The Syriac Gazetteer](http://syriaca.org/geo)_ should be released in the fall of 2021.
 
 ### Caesarea-Maritima.org: A Digital Archive (forthcoming)
 
-Technical Editor responsible for developing a TEI XML data model for literary testimonia related to Caesarea Maratima, populating a Zotero database with bibliographic sources for the study of Caesarea Maritima, transforming tabular data into TEI compliant XML records for use in _Caesarea-Maritima.org_, and training and managing research assistants to input and edit project data.
+Technical Editor responsible for developing a TEI XML data model for literary testimonia related to Caesarea Maritima, populating a Zotero database with bibliographic sources for the study of Caesarea Maritima, transforming tabular data into TEI compliant XML records for use in _Caesarea-Maritima.org_, and training and managing research assistants to input and edit project data.
+
+{>>INCLUDE: summer and fall roles in creating a better data pipeline and form for data entry and maintaining uniformity among the records<<}
 
 ### The Beth Qaṭraye Gazetteer (forthcoming)
 
@@ -43,12 +51,14 @@ Technical Editor responsible for transforming tabular data into TEI compliant XM
 
 ## Presentations
 
+- "'Dung in the Grave, Dust in the Streets of Sheol': Scent, Wealth, and Grief in a Homily on the Departed Attributed to Isaac of Antioch," North American Patristics Society Annual Conference. _Held virtually_. 25 May 2021.
+- "Diverging Strategies of Comfort: Isaac of Antioch and Jacob of Serugh on the Death of Children," Seventh Dorushe Graduate Student Conference on Syriac Studies. Saint Louis University. 19 May 2021. https://sites.google.com/view/dorushe/paper-abstracts/session-1-jacob-of-serugh/william-potter
+- "Life Cycle of Digital Texts," _Graduate Student Lightning Talk Series. Session 1 – In Time & Space: Mapping, Visual, & Textual DH Tools_. Organized by The Walter J. Ong Center for Digital Humanities, Saint Louis University. 3 March 2021. https://www.youtube.com/watch?v=vK3Q6khF46A
 - "TEI for Critical Editions," 2019 Digital Humanities Bootcamp. Vanderbilt University, Nashville, TN. 13 August, 2019.
 - "Syriaca.org: Digital Tools for a Culture Facing Genocide," Lightning Talk, 2019 Digital Humanities Bootcamp. Vanderbilt University, Nashville, TN. 12 August, 2019.
 - “Eclectic Digital Editions and Translations in TEI: Narsai’s Homily, *On Job*,” Poster, Cultural Heritage at Scale 2019. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Roundtable on TEI XML and Student Research,” Cultural Heritage at Scale 2019 Conference. Vanderbilt University, Nashville, TN. 2 May 2019.
 - “Poetry and Preaching in Medieval Mesopotamia,” Poetic Traditions in the Ancient and Medieval Mediterranean and Near East, Vanderbilt University, Nashville, TN. 26 March, 2019.
-- “‘Prolonging Their Days’: A Narrative Look at Ecclesiastes 8,” Belmont Undergraduate Research Symposium, Nashville, TN. 20 April, 2017.
 
 ## Professional Experience
 
@@ -60,10 +70,12 @@ _Vanderbilt Center for Digital Humanities, Nashville, TN_ <br/>August 2019 – J
 - Served as a Technical Editor for _The Beth Qatraye Gazetteer_ (forthcoming) and _Caesarea-Maritima.org: A Digital Archive_ (forthcoming).
 - Managed a team of graduate student researchers encoding Wright’s *Catalogue of Syriac Manuscripts* in TEI XML.
 
+{>>ADD HERE WORK ON LRDA APP<<}
+
 ### Archaeological Site Management
 
 #### Graduate Assistant
-_Vanderbilt University Excavations at Caesarea-Maratima_<br/>May – June 2019
+_Vanderbilt University Excavations at Caesarea-Maritima_<br/>May – June 2019
 
 - Assisted Field and Trench Supervisors in managing undergraduate student excavators during the 2019 excavation season.
 - Participated in the excavation, documentation, and processing of archaeological finds.
@@ -72,7 +84,7 @@ _Vanderbilt University Excavations at Caesarea-Maratima_<br/>May – June 2019
 #### Research Assistant to Professor David A. Michelson
 _Vanderbilt Divinity School_
 
-- Provided editorial assistance for Michelson, _Library of Paradise_ (forthcoming) and *Faith and Community around the Mediterranean. In Honor of Peter R. L. Brown*, ed. P. Guran and D. Michelson (forthcoming).
+- Provided editorial assistance for Michelson, _Library of Paradise_ (forthcoming) and *Faith and Community around the Mediterranean. In Honor of Peter R. L. Brown*, ed. P. Guran and D. Michelson, in the series Études Byzantines et Post-Byzantines Nouvelle série Tome I (VIII). Bucharest: Académie Roumaine, 2019.
 
 #### Research Assistant to Professor Choon-Leong Seow _Vanderbilt Divinity School_
 
@@ -81,7 +93,7 @@ _Vanderbilt Divinity School_
 #### Copy Editor
 _United Methodist Publishing House: Discipleship Resources International_
 
-- Editor for several titles in the Africa Ministry Series.
+- Editor for several titles in the _Africa Ministry Series_.
 
 ## Teaching Experience
 - **Teaching Assistant**, Saint Louis University, _THEO2710 Religions of the World_, Fall 2020
@@ -96,7 +108,7 @@ _United Methodist Publishing House: Discipleship Resources International_
 Syriac; Hebrew (Biblical, Mishnaic, Medieval); Greek (Attic, Koine); Arabic (Quranic and Classical)
 
 #### Modern:
-French, Spanish
+German, French, Spanish
 
 #### Artificial:
 XML (TEI); XQuery; Markdown; Python; CSS
