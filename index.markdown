@@ -16,16 +16,33 @@ Detail-oriented and service-minded cataloger dedicated to improving accessibilit
 
 ![A Digital Catalogue of Syriac Manuscripts in the British Library](/images/syriac-mss-catalogue.jpg){:height="30%" width="30%"}
 
+[Codebase](https://github.com/srophe/wright-catalogue)   _Live project under development_
+
+- Developing a digital database (TEI XML) of more than 1,200 Syriac manuscript catalogue entries
+- Supervising a team of researchers to create, edit, and proofread almost 200 new TEI XML records
+- Designed, implemented, and iterated a data pipeline that decreased the workload and increased the efficiency of catalogue record creation
+
 ### The Syriac Gazetteer
 
 ![The Syriac Gazetteer](/images/syriac-gazetteer-preview-temp.jpg){:height="30%" width="30%"}
 
-### Caesarea-Maritima.org
+[Codebase](https://github.com/srophe/srophe-app-data/tree/master/data/places/tei)   [Live Project]()
 
-![The Syriac Gazetteer](/images/caeasraea-maritima.JPG){:height="30%" width="30%"}
+- Geographical reference database with over 2,000 entries
+- Integrated 450 new data records and updated 270 existing records
+- Maintain all data in conformance with [custom TEI XML schema](https://github.com/srophe/srophe-eXist-app/tree/master/documentation/schemas)
 
+### Caesarea-Maritima.org: A Digital Archive
+
+![Caesarea-Maritima.org: A Digital Archive](/images/caeasraea-maritima.JPG){:height="30%" width="30%"}
+
+[Codebase](https://github.com/srophe/caesarea-data/)   _Live project under development_
+
+- Designed and implemented a TEI XML data model for pre-modern written references to Caesarea-Maritima
+- Maintained the 1,000 entry Zotero library for _Caesarea Maritima: A Comprehensive Bibliography_
+- Built an oXygen XML Author form using CSS for data input
 ----
 
 ## Resume
 
-My Resume may be downloaded [here]().
+My Resume may be downloaded [here](/resources/Resume_Potter-William.PDF).
