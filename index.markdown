@@ -45,4 +45,4 @@ Detail-oriented and service-minded cataloger dedicated to improving accessibilit
 
 ## Resume
 
-My Resume may be downloaded [here](/resources/Resume_Potter-William.PDF).
+My Resume may be downloaded [here](https://raw.githubusercontent.com/wlpotter/wlpotter.github.io/master/resources/Resume_Potter-William.pdf).
