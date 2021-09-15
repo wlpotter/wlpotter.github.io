@@ -75,7 +75,7 @@ Hi, my name is Will. I'm a Digital Archivist building accessible and usable cult
 
 ### The Beth Qatraye Gazetteer
 
-![BQ Gazetteer]({{ site.url }}/assets/images/){:height="40%" width="40%"}
+![BQ Gazetteer]({{ site.url }}/assets/images/beth-qatraye-gazetteer.JPG){:height="40%" width="40%"}
 
 [Codebase](https://github.com/srophe/bethqatraye-data/)  | _Live project under development_
 
