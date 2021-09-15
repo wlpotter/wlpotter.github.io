@@ -1,5 +1,5 @@
 current directory: C:/Users/anoni/Documents/GitHub/wlpotter.github.io/minima/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210915-8988-1j9ewl3.rb extconf.rb
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210915-19448-1al09ci.rb extconf.rb
 creating Makefile
 
 current directory: C:/Users/anoni/Documents/GitHub/wlpotter.github.io/minima/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -14,4 +14,4 @@ linking shared-object ruby_http_parser.so
 
 current directory: C:/Users/anoni/Documents/GitHub/wlpotter.github.io/minima/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20210915-8988-gsnpcl
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20210915-19448-1si23ki
