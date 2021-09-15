@@ -21,7 +21,7 @@
 title: William L. Potter
 email: your-email@example.com # use a Firefox relay address
 description: >- # this means to ignore newlines until "baseurl:"
-  Digital Archives for Cultural Heritage Preservation
+  Digital Archives for Diverse User Groups
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: williamlpotter
