@@ -42,6 +42,18 @@ Digital Archivist building accessible and usable cultural heritage repositories 
 - Maintained the 1,000 entry Zotero library for _Caesarea Maritima: A Comprehensive Bibliography_
 - Built an oXygen XML Author form using CSS for data input
 
+
+### The Beth Qatraye Gazetteer
+
+![Beth Qatraye Gazetteer](/images/beth-qatraye-gazetteer.JPG){:height="40%" width="40%"}
+
+[Codebase](https://github.com/srophe/bethqatraye-data/)  |  _Live project under development_
+
+- Created a TEI XML database of medieval places related to Qatar and its surrounding region
+- Performed XML record creation and merging from CSV data tables
+- Developed and deployed a Python web scraper to integrate linked data from the online [Brill Encylopedia of Islam, Second Edition](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2)
+- Integrated coordinate data from various geographic datasource APIs via Python script
+
 ----
 
 ## Resume
