@@ -4,9 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
     {%- if page_paths -%}
-      <nav class="site-nav">
+      <nav class="site-nav header-row header-row-1">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -15,7 +14,7 @@
             </svg>
           </span>
         </label>
-
+   {%- endif -%}
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -25,6 +24,13 @@
           {%- endfor -%}
         </div>
       </nav>
-    {%- endif -%}
+      <br/>
+      <div class="contact header-row header-row-2">
+        <p id="contact-me">Let's connect:</p>
+      {%- if site.email -%}
+        <a class="mail-to" href="mailto:{{ site.email }}">Email</a>
+      {%- endif -%}
+      {%- include social-icons-only.html -%}
+      </div>
   </div>
 </header>
