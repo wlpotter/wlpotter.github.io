@@ -16,7 +16,7 @@ Digital Archivist building accessible and usable cultural heritage repositories 
 
 ![A Digital Catalogue of Syriac Manuscripts in the British Library](/images/syriac-mss-catalogue.jpg){:height="40%" width="40%"}
 
-[Codebase](https://github.com/srophe/wright-catalogue)  |  _Live project under development_
+[Codebase](https://github.com/srophe/wright-catalogue)  |  [Live project](https://syriaca.org/bl)
 
 - Developing a digital database (TEI XML) of more than 1,200 Syriac manuscript catalogue entries
 - Supervising a team of researchers to create, edit, and proofread almost 200 new TEI XML records
@@ -26,7 +26,7 @@ Digital Archivist building accessible and usable cultural heritage repositories 
 
 ![The Syriac Gazetteer](/images/syriac-gazetteer-preview-temp.jpg){:height="40%" width="40%"}
 
-[Codebase](https://github.com/srophe/srophe-app-data/tree/master/data/places/tei)   |  [Live Project]()
+[Codebase](https://github.com/srophe/srophe-app-data/tree/master/data/places/tei)   |  [Live Project](https://syriaca.org/geo)
 
 - Geographical reference database with over 2,000 entries
 - Integrated 450 new data records and updated 270 existing records
