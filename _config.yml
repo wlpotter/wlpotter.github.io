@@ -21,7 +21,7 @@
 title: William L. Potter
 email: william.potter@slu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Curriculum Vitae
+  Digital Archives for Diverse User Groups
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wlpotter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: williamlpotter
