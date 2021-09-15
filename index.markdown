@@ -5,16 +5,22 @@
 layout: home
 ---
 
+<div class="headline">
 Hi, my name is Will. I'm a Digital Archivist building accessible and usable cultural heritage repositories for diverse user groups.
+</div>
 
+![William L. Potter, headshot]({{ site.url }}/assets/images/headshot2020.JPG){:height="30%" width="30%"}
 <!-- Headshot -->
 
+<div class="about-me">
 I'm an archivist and student of Mediterranean and west Asian cultures in late antiquity. Through my graduate training in these areas, I have come to appreciate the crucial roles libraries and archives play for human knowledge. For this reason I am pursuing a career in library and information science.
+
 
 Most of my [research](<!--link to research/index-->) and [work](<!-- link to project page (eventually with facet for Syriac)-->) has been on Syriac language and cultural heritage. These projects are vital for the Syriac heritage communities which exist in a global diaspora but are threatened by continuing violence in western and central Asia. These experiences have instilled in me the conviction to build accessible, user-oriented digital cultural heritage archives.
 
-As I've grown as an archivist and developer, I've learned that usability stems from clear, maintainable information architecture and program design.
 
+As I've grown as an archivist and developer, I've learned that usability stems from clear, maintainable information architecture and program design.
+</div>
 
 ## Skills
 
