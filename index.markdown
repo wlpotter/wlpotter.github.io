@@ -6,11 +6,11 @@ layout: home
 ---
 ![profile picture](/images/headshot2020.JPG){:height="30%" width="30%"}
 
-Detail-oriented and service-minded cataloger dedicated to improving accessibility of collection assets by maintaining information accuracy.
+Digital Archivist building accessible and usable cultural heritage repositories for diverse user groups.
 
 ----
 
-## Projects
+## What I've been working on
 
 ### A Digital Catalogue of Syriac Manuscripts in the British Library
 
