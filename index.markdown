@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![profile picture](/images/headshot2020.JPG){:height="30%" width="30%"}
+![profile picture](/images/headshot2022.JPG){:height="30%" width="30%"}
 
 Digital Archivist building accessible and usable cultural heritage repositories for diverse user groups.
 
