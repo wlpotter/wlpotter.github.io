@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![profile picture](/images/headshot2022.JPG){:height="30%" width="30%"}
+![profile picture](/images/headshot2022.jpg){:height="30%" width="30%"}
 
 Data Coordinator for Digital Collections
 
