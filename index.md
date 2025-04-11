@@ -5,21 +5,42 @@ layout: home
 hero:
   name: "William L. Potter"
   text: "Project Portfolio and CV"
-  tagline: My great project tagline
+  tagline: Data Coordinator for Digital Collections
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About me
+      link: /about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Projects
+      link: /projects/
+    - theme: alt
+      text: Curriculum Vitae
+      link: /cv
 
 features:
-  - title: Feature A
+  - title: Sinai Manuscripts Data Portal
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    link: /projects/smdp
+  - title: Syriac Manuscripts in the British Library
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+    link: /projects/smbl
+  - title: The Syriac Gazeteer
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+    link: /projects/tsg
+  - title: A Comprehensive Bibliography on Syriac Studies
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /projects/cbss
+  - title: "Caesarea-Maritima.org: A Digital Archive"
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /projects/caesarea
+  - title: Sinai Manuscripts Digital Library
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /projects/smdl
+  - title: The Beth Qaṭraye Gazetteer
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /projects/bqg
+  - title: Linked Data for Syriac Manuscripts
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /projects/linked-mss
 
+---
