@@ -19,28 +19,27 @@ hero:
 
 features:
   - title: Sinai Manuscripts Data Portal
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Open-access database with an innovative data model for curating the complexities of manuscript descriptions
     link: /projects/smdp
   - title: Syriac Manuscripts in the British Library
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Digital catalogue in TEI XML, incorporating Linked Open Data practices
     link: /projects/smbl
   - title: The Syriac Gazeteer
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Geographical reference work containing authority files for places relevant to Syriac studies
     link: /projects/tsg
-  - title: A Comprehensive Bibliography on Syriac Studies
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Comprehensive Bibliography on Syriac Studies
+    details: Bibliographic database with 28,000+ publications on the topic of Syriac, classified according to more than 1,000 subject headings 
     link: /projects/cbss
   - title: "Caesarea-Maritima.org: A Digital Archive"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Database of pre-modern literary references to the ancient site of Caesarea-Maritima
     link: /projects/caesarea
   - title: Sinai Manuscripts Digital Library
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Digitized manuscript images from St. Catherine's Monastery on Mt. Sinai delivered via IIIF
     link: /projects/smdl
   - title: The Beth Qaṭraye Gazetteer
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Geographic reference work for the Beth Qaṭraye region from pre-Islamic and early Islamic historical sources
     link: /projects/bqg
   - title: Linked Data for Syriac Manuscripts
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Experimental pipeline for aggregating manuscripts data into a Linked Data knowledge graph
     link: /projects/linked-mss
-
 ---
