@@ -4,55 +4,35 @@
 
 layout: home
 ---
-![profile picture](/images/headshot2022.jpg){:height="30%" width="30%"}
+![profile picture](/images/headshot2022.jpg){:height="25%" width="25%"}
 
-Data Coordinator for Digital Collections
-
+Librarian for Computational Theology, Divinity Library, Yale University
 ----
 
 ## What I've been working on
 
-### A Digital Catalogue of Syriac Manuscripts in the British Library
+### Syriac Manuscripts in the British Library: A New Digital Edition of Wright's Catalogue
 
 ![A Digital Catalogue of Syriac Manuscripts in the British Library](/images/syriac-mss-catalogue.jpg){:height="40%" width="40%"}
 
-[Codebase](https://github.com/srophe/wright-catalogue)  |  [Live project](https://syriaca.org/bl)
+[Dataset](https://github.com/srophe/britishLibrary-data)  |  [Live project](https://bl.syriac.uk)
 
-- Developing a digital database (TEI XML) of more than 1,200 Syriac manuscript catalogue entries
-- Supervising a team of researchers to create, edit, and proofread almost 200 new TEI XML records
-- Designed, implemented, and iterated a data pipeline that decreased the workload and increased the efficiency of catalogue record creation
+A digital re-presentation of William Wright's _Catalogue of Syriac manuscripts in the British Museum_ (1870-1872) with more than 1,200 Syriac manuscript catalogue entries encoded as TEI XML documents. These data are enriched with through the linking of persons, places, and works to the broader Syriaca.org knowledge graph of Syriac studies. The [web portal](https://bl.syriac.uk) permits enhanced search and browse capabilities, provided new mechanisms to explore and research this vital collection of Syriac manuscripts.
 
-### The Syriac Gazetteer
+### Syriaca.org: The Syriac Reference Portal
 
 ![The Syriac Gazetteer](/images/syriac-gazetteer-preview-temp.jpg){:height="40%" width="40%"}
 
-[Codebase](https://github.com/srophe/srophe-app-data/tree/master/data/places/tei)   |  [Live Project](https://syriaca.org/geo)
+[Dataset](https://github.com/srophe/syriaca-data)   |  [Live Project](https://syriaca.org)
 
-- Geographical reference database with over 2,000 entries
-- Integrated 450 new data records and updated 270 existing records
-- Maintain all data in conformance with [custom TEI XML schema](https://github.com/srophe/srophe-eXist-app/tree/master/documentation/schemas)
-
-### Caesarea-Maritima.org: A Digital Archive
-
-![Caesarea-Maritima.org: A Digital Archive](/images/caeasraea-maritima.JPG){:height="40%" width="40%"}
-
-[Codebase](https://github.com/srophe/caesarea-data/)  |  _Live project under development_
-
-- Designed and implemented a TEI XML data model for pre-modern written references to Caesarea-Maritima
-- Maintained the 1,000 entry Zotero library for _Caesarea Maritima: A Comprehensive Bibliography_
-- Built an oXygen XML Author form using CSS for data input
+Reference portal for [persons](https://syriaca.org/persons), [places](https://syriaca.org/geo), [literary works](https://syriaca.org/nhsl), along with a 29,000+ item [bibliography](https://syriaca.org/cbss) related to Syriac literature and culture. Serves as a research hub connecting together digital resources for researchers, students, cultural heritage community members, and the broader public interested in the history of Syriac literature. Data are avaiable as TEI XML documents, and are serialized into a Linked Open Data knowledge graph of Syriac studies.
 
 
-### The Beth Qatraye Gazetteer
+### Sinai Manuscripts Digital Library and Data Portal
 
-![Beth Qatraye Gazetteer](/images/beth-qatraye-gazetteer.JPG){:height="40%" width="40%"}
+[Digital Library](https://sinaimanuscripts.library.ucla.edu/)  | [Data Portal](https://sinaiportal.library.ucla.edu/)
 
-[Codebase](https://github.com/srophe/bethqatraye-data/)  |  _Live project under development_
-
-- Created a TEI XML database of medieval places related to Qatar and its surrounding region
-- Performed XML record creation and merging from CSV data tables
-- Developed and deployed a Python web scraper to integrate linked data from the online [Brill Encylopedia of Islam, Second Edition](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2)
-- Integrated coordinate data from various geographic datasource APIs via Python script
+The Sinai Manuscripts Digital Library and Data Portal provide access to digital images of a portion of the manuscript collection of St. Catherine's Monastery of Sinai. The Data Portal provides rich descriptive metadata about these manuscripts, facilitating data-intensive and comparative codicological research across the collection.
 
 ----
 
