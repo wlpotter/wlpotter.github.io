@@ -7,6 +7,7 @@ layout: home
 ![profile picture](/images/headshot2022.jpg){:height="25%" width="25%"}
 
 Librarian for Computational Theology, Divinity Library, Yale University
+
 ----
 
 ## What I've been working on
